@@ -1,0 +1,1 @@
+INSERT INTO product_book (booking_id, product_id, delivery_address,count) VALUES (1, 1, '15975 wright plaza', 3);
